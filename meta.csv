@@ -1,0 +1,701 @@
+GSM,Age,Sex,Diagnosis,Tissue,Batch
+GSM3577568,93,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577569,77,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577570,92,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577571,85,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577572,83,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577573,85,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577574,93,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577575,96,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577576,96,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577577,88,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577578,97,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577579,79,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577580,76,Male,Control,Brain; fusiform gyrus,1
+GSM3577581,89,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577582,89,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577583,78,Female,Control,Brain; fusiform gyrus,1
+GSM3577584,80,Male,Control,Brain; fusiform gyrus,1
+GSM3577585,85,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577586,64,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577587,95,Female,Control,Brain; fusiform gyrus,1
+GSM3577588,82,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577589,83,Female,Control,Brain; fusiform gyrus,1
+GSM3577590,91,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577591,77,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577592,96,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577593,80,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577594,82,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577595,82,Male,Control,Brain; fusiform gyrus,1
+GSM3577596,90,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577597,80,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577598,86,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577599,87,Female,Control,Brain; fusiform gyrus,1
+GSM3577600,93,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577601,88,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577602,86,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577603,90,Female,Control,Brain; fusiform gyrus,1
+GSM3577604,99,Female,Control,Brain; fusiform gyrus,1
+GSM3577605,,,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577606,82,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577607,88,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577608,85,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577609,65,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577610,85,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577611,86,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577612,78,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577613,74,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577614,87,Male,Control,Brain; fusiform gyrus,1
+GSM3577615,103,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577616,82,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577617,77,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577618,86,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577619,96,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577620,90,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577621,79,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577622,89,Male,Control,Brain; fusiform gyrus,1
+GSM3577623,78,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577624,94,Male,Control,Brain; fusiform gyrus,1
+GSM3577625,86,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577626,86,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577627,86,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577628,83,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577629,80,Female,Control,Brain; fusiform gyrus,1
+GSM3577630,86,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577631,85,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577632,88,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577633,70,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577634,81,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577635,80,Male,Control,Brain; fusiform gyrus,1
+GSM3577636,97,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577637,85,Female,Control,Brain; fusiform gyrus,1
+GSM3577638,77,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577639,91,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577640,89,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577641,91,Female,Control,Brain; fusiform gyrus,1
+GSM3577642,83,Male,Control,Brain; fusiform gyrus,1
+GSM3577643,82,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577644,81,Male,Control,Brain; fusiform gyrus,1
+GSM3577645,75,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577646,95,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577647,79,Female,Control,Brain; fusiform gyrus,1
+GSM3577648,92,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577649,79,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577650,90,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577651,89,Female,Control,Brain; fusiform gyrus,1
+GSM3577652,96,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577653,82,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577654,91,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577655,96,Female,Control,Brain; fusiform gyrus,1
+GSM3577656,81,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577657,84,Female,Control,Brain; fusiform gyrus,1
+GSM3577658,86,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577659,69,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577660,76,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577661,80,Female,Control,Brain; fusiform gyrus,1
+GSM3577662,76,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577663,81,Male,Control,Brain; fusiform gyrus,1
+GSM3577664,82,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577665,88,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577666,89,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577667,85,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577668,81,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577669,70,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577670,84,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577671,75,Female,Control,Brain; fusiform gyrus,1
+GSM3577672,92,Male,Control,Brain; fusiform gyrus,1
+GSM3577673,91,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577674,76,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577675,81,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577676,86,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577677,95,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577678,87,Female,Control,Brain; fusiform gyrus,1
+GSM3577679,86,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577680,86,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577681,83,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577682,87,Female,Control,Brain; fusiform gyrus,1
+GSM3577683,72,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577684,102,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577685,82,Male,Control,Brain; fusiform gyrus,1
+GSM3577686,86,Female,Control,Brain; fusiform gyrus,1
+GSM3577687,92,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577688,83,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577689,90,Male,Control,Brain; fusiform gyrus,1
+GSM3577690,88,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577691,82,Female,Control,Brain; fusiform gyrus,1
+GSM3577692,74,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577693,85,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577694,79,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577695,80,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577696,77,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577697,69,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577698,84,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577699,91,Male,Control,Brain; fusiform gyrus,1
+GSM3577700,81,Male,Control,Brain; fusiform gyrus,1
+GSM3577701,76,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577702,71,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577703,89,Male,Control,Brain; fusiform gyrus,1
+GSM3577704,67,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577705,81,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577706,87,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577707,97,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577708,94,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577709,71,Male,Control,Brain; fusiform gyrus,1
+GSM3577710,82,Male,Control,Brain; fusiform gyrus,1
+GSM3577711,92,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577712,82,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577713,73,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577714,103,Female,Control,Brain; fusiform gyrus,1
+GSM3577715,87,Male,Control,Brain; fusiform gyrus,1
+GSM3577716,76,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577717,86,Male,Control,Brain; fusiform gyrus,1
+GSM3577718,76,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577719,70,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577720,80,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577721,87,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577722,88,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577723,91,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577724,98,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577725,85,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577726,84,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577727,65,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577728,78,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577729,74,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577730,91,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577731,92,Female,Control,Brain; fusiform gyrus,1
+GSM3577732,61,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577733,87,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577734,89,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577735,100,Male,Control,Brain; fusiform gyrus,1
+GSM3577736,88,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577737,74,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577738,84,Male,Control,Brain; fusiform gyrus,1
+GSM3577739,76,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577740,93,Male,Control,Brain; fusiform gyrus,1
+GSM3577741,87,Male,Control,Brain; fusiform gyrus,1
+GSM3577742,76,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577743,84,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577744,88,Female,Control,Brain; fusiform gyrus,1
+GSM3577745,90,Female,Control,Brain; fusiform gyrus,1
+GSM3577746,60,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577747,97,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577748,94,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577749,86,Male,Control,Brain; fusiform gyrus,1
+GSM3577750,86,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577751,87,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577752,81,Male,Control,Brain; fusiform gyrus,1
+GSM3577753,72,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577754,81,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577755,90,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577756,85,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577757,85,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577758,74,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577759,77,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577760,85,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577761,92,Female,Control,Brain; fusiform gyrus,1
+GSM3577762,88,Female,Control,Brain; fusiform gyrus,1
+GSM3577763,80,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577764,87,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577765,85,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577766,84,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577767,90,Female,Control,Brain; fusiform gyrus,1
+GSM3577768,79,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577769,66,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577770,86,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577771,70,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577772,60,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577773,82,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577774,81,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577775,91,Female,Control,Brain; fusiform gyrus,1
+GSM3577776,87,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577777,85,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577778,91,Male,Control,Brain; fusiform gyrus,1
+GSM3577779,92,Male,Control,Brain; fusiform gyrus,1
+GSM3577780,91,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577781,75,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577782,85,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577783,94,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577784,81,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577785,84,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577786,79,Male,Control,Brain; fusiform gyrus,1
+GSM3577787,82,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577788,79,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577789,91,Male,Control,Brain; fusiform gyrus,1
+GSM3577790,81,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577791,86,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577792,89,Male,Control,Brain; fusiform gyrus,1
+GSM3577793,84,Male,Control,Brain; fusiform gyrus,1
+GSM3577794,99,Female,Control,Brain; fusiform gyrus,1
+GSM3577795,76,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577796,84,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577797,92,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577798,86,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577799,87,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577800,89,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577801,91,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577802,94,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577803,90,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577804,76,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577805,77,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577806,82,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577807,91,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577808,87,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577809,91,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577810,88,Female,Control,Brain; fusiform gyrus,1
+GSM3577811,87,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577812,97,Female,Control,Brain; fusiform gyrus,1
+GSM3577813,91,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577814,80,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577815,78,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577816,84,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577817,79,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577818,80,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577819,97,Male,Control,Brain; fusiform gyrus,1
+GSM3577820,75,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577821,87,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577822,68,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577823,82,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577824,83,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577825,101,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577826,92,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577827,73,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577828,88,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577829,93,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577830,77,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577831,88,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577832,82,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577833,82,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577834,91,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577835,64,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577836,82,Female,Control,Brain; fusiform gyrus,1
+GSM3577837,74,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577838,91,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577839,74,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577840,82,Female,Control,Brain; fusiform gyrus,1
+GSM3577841,85,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577842,65,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577843,91,Male,Control,Brain; fusiform gyrus,1
+GSM3577844,90,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577845,86,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577846,88,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577847,90,Male,Control,Brain; fusiform gyrus,1
+GSM3577848,91,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577849,80,Male,Control,Brain; fusiform gyrus,1
+GSM3577850,91,Female,Control,Brain; fusiform gyrus,1
+GSM3577851,85,Male,Control,Brain; fusiform gyrus,1
+GSM3577852,75,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577853,86,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577854,83,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577855,92,Female,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM3577856,78,Male,Alzheimer's disease,Brain; fusiform gyrus,1
+GSM4043025,86,Male,Control,Blood; plasma,2
+GSM4043026,86,Male,Control,Blood; plasma,2
+GSM4043027,86,Male,Control,Blood; plasma,2
+GSM4043028,86,Male,Control,Blood; plasma,2
+GSM4043029,86,Male,Control,Blood; plasma,2
+GSM4043030,93,Female,Control,Blood; plasma,2
+GSM4043031,93,Female,Control,Blood; plasma,2
+GSM4043032,93,Female,Control,Blood; plasma,2
+GSM4043033,93,Female,Control,Blood; plasma,2
+GSM4043034,93,Female,Control,Blood; plasma,2
+GSM4043035,86,Male,Control,Blood; plasma,2
+GSM4043036,86,Male,Control,Blood; plasma,2
+GSM4043037,86,Male,Control,Blood; plasma,2
+GSM4043038,86,Male,Control,Blood; plasma,2
+GSM4043039,83,Male,Control,Blood; plasma,2
+GSM4043040,83,Male,Control,Blood; plasma,2
+GSM4043041,83,Male,Control,Blood; plasma,2
+GSM4043042,83,Male,Control,Blood; plasma,2
+GSM4043043,83,Male,Control,Blood; plasma,2
+GSM4043044,89,Male,Control,Blood; plasma,2
+GSM4043045,89,Male,Control,Blood; plasma,2
+GSM4043046,89,Male,Control,Blood; plasma,2
+GSM4043047,89,Male,Control,Blood; plasma,2
+GSM4043048,89,Male,Control,Blood; plasma,2
+GSM4043049,96,Female,Control,Blood; plasma,2
+GSM4043050,96,Female,Control,Blood; plasma,2
+GSM4043051,96,Female,Control,Blood; plasma,2
+GSM4043052,96,Female,Control,Blood; plasma,2
+GSM4043053,96,Female,Control,Blood; plasma,2
+GSM4043054,83,Female,Control,Blood; plasma,2
+GSM4043055,83,Female,Control,Blood; plasma,2
+GSM4043056,83,Female,Control,Blood; plasma,2
+GSM4043057,83,Female,Control,Blood; plasma,2
+GSM4043058,73,Female,Control,Blood; plasma,2
+GSM4043059,73,Female,Control,Blood; plasma,2
+GSM4043060,73,Female,Control,Blood; plasma,2
+GSM4043061,94,Female,Control,Blood; plasma,2
+GSM4043062,94,Female,Control,Blood; plasma,2
+GSM4043063,94,Female,Control,Blood; plasma,2
+GSM4043064,94,Female,Control,Blood; plasma,2
+GSM4043105,87,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043106,87,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043107,82,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043108,82,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043109,82,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043110,90,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043111,90,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043112,90,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043113,90,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043114,81,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043115,81,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043116,81,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043117,81,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043118,81,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043119,71,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043120,71,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043121,71,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043122,71,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043123,83,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043124,83,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043125,83,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043126,83,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043127,87,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043128,87,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043129,87,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043130,87,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043131,87,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043132,87,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043133,87,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043134,87,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043135,77,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043136,77,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043137,77,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043138,77,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043139,77,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043065,94,Female,Control,Blood; plasma,2
+GSM4043066,85,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043067,85,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043068,85,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043069,85,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043070,85,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043071,85,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043072,86,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043073,86,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043074,86,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043075,86,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043076,86,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043077,89,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043078,89,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043079,89,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043080,89,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043081,89,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043082,82,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043083,82,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043084,82,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043085,82,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043086,85,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043087,85,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043088,85,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043089,85,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043090,85,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043091,88,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043092,88,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043093,88,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043094,88,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043095,88,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043096,88,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043097,88,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043098,88,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043099,88,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043100,88,Male,Alzheimer's disease,Blood; plasma,2
+GSM4043101,87,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043102,87,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043103,87,Female,Alzheimer's disease,Blood; plasma,2
+GSM4043104,87,Female,Alzheimer's disease,Blood; plasma,2
+GSM3561843,95,Female,Control,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561844,88,Female,Control,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561845,79,Male,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561846,84,Female,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561847,73,Not reported,Control,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561848,84,Female,Alzheimer's disease,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561849,74,Male,Control,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561850,97,Male,Control,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561851,75,Male,Alzheimer's disease,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561852,86,Male,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561853,75,Male,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561854,87,Male,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561855,75,Not reported,Control,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561856,88,Female,Control,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561857,74,Male,Control,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561858,71,Female,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561859,38,Male,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561860,58,Not reported,Control,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561861,81,Not reported,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561862,75,Not reported,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561863,72,Male,Alzheimer's disease,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561864,72,Male,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561865,78,Female,Alzheimer's disease,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561866,59,Female,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561867,75,Not reported,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561868,79,Male,Control,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561869,99,Female,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561870,79,Male,Alzheimer's disease,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561871,88,Female,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561872,78,Female,Alzheimer's disease,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561873,83,Female,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561874,83,Female,Control,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561875,86,Male,Control,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561876,88,Male,Alzheimer's disease,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561877,88,Male,Alzheimer's disease,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561878,71,Female,Control,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561879,80,Male,Control,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561880,75,Male,Alzheimer's disease,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561881,79,Male,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561882,97,Male,Control,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561883,80,Male,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561884,59,Not reported,Alzheimer's disease,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561885,58,Not reported,Control,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561886,75,Male,Alzheimer's disease,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561887,97,Male,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561888,81,Not reported,Alzheimer's disease,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561889,81,Male,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561890,84,Female,Alzheimer's disease,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561891,59,Not reported,Alzheimer's disease,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561892,57,Female,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561893,74,Male,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561894,86,Male,Control,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561895,95,Female,Control,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561896,80,Male,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561897,91,Male,Control,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561898,97,Male,Control,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561899,82,Not reported,Alzheimer's disease,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561900,85,Female,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561901,79,Male,Alzheimer's disease,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561902,73,Not reported,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561903,64,Not reported,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561904,58,Not reported,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561905,91,Male,Control,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561906,91,Male,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561907,82,Not reported,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561908,59,Not reported,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561909,81,Not reported,Alzheimer's disease,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561910,86,Male,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561911,59,Female,Control,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561912,80,Male,Control,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561913,91,Male,Control,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561914,78,Female,Alzheimer's disease,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561915,88,Male,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561916,78,Female,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561917,58,Not reported,Control,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561918,88,Female,Control,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561919,95,Female,Control,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561920,81,Male,Alzheimer's disease,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561921,71,Not reported,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561922,95,Female,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561923,71,Not reported,Alzheimer's disease,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561924,86,Male,Control,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561925,86,Male,Control,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561926,79,Male,Control,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561927,79,Male,Control,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561928,38,Male,Control,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561929,83,Female,Control,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561930,59,Female,Control,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561931,38,Male,Control,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561932,86,Male,Control,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561933,88,Female,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561934,61,Male,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561935,84,Female,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561936,61,Male,Control,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561937,74,Female,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561938,84,Female,Alzheimer's disease,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561939,93,Male,Control,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561940,61,Male,Control,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561941,81,Male,Control,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561942,70,Male,Alzheimer's disease,Brain; superior frontal gyrus; myeloid cell,3
+GSM3561943,84,Female,Alzheimer's disease,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561944,93,Male,Control,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561945,53,Male,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561946,88,Female,Alzheimer's disease,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561947,93,Male,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561948,53,Male,Control,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561949,81,Male,Control,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561950,81,Male,Control,Brain; superior frontal gyrus; neuron cell,3
+GSM3561951,70,Male,Alzheimer's disease,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3561952,70,Male,Alzheimer's disease,Brain; superior frontal gyrus; neuron cell,3
+GSM3561953,74,Female,Alzheimer's disease,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561954,93,Male,Control,Brain; superior frontal gyrus; endothelial cell,3
+GSM3561955,84,Female,Alzheimer's disease,Brain; superior frontal gyrus; astrocyte cell,3
+GSM3466536,Not reported,Not reported,Alzheimer's disease,Blood; peripheral blood mononuclear cells,4
+GSM3466539,Not reported,Not reported,Alzheimer's disease,Blood; peripheral blood mononuclear cells,4
+GSM3466543,Not reported,Not reported,Alzheimer's disease,Blood; peripheral blood mononuclear cells,4
+GSM3466547,Not reported,Not reported,Alzheimer's disease,Blood; peripheral blood mononuclear cells,4
+GSM3466551,Not reported,Not reported,Alzheimer's disease,Blood; peripheral blood mononuclear cells,4
+GSM3466555,Not reported,Not reported,Alzheimer's disease,Blood; peripheral blood mononuclear cells,4
+GSM3466559,Not reported,Not reported,Alzheimer's disease,Blood; peripheral blood mononuclear cells,4
+GSM3466562,Not reported,Not reported,Alzheimer's disease,Blood; peripheral blood mononuclear cells,4
+GSM3466564,Not reported,Not reported,Alzheimer's disease,Blood; peripheral blood mononuclear cells,4
+GSM3466565,Not reported,Not reported,Alzheimer's disease,Blood; peripheral blood mononuclear cells,4
+GSM3466571,Not reported,Not reported,Alzheimer's disease,Blood; peripheral blood mononuclear cells,4
+GSM3466573,Not reported,Not reported,Control,Blood; peripheral blood mononuclear cells,4
+GSM3466574,Not reported,Not reported,Control,Blood; peripheral blood mononuclear cells,4
+GSM3466575,Not reported,Not reported,Control,Blood; peripheral blood mononuclear cells,4
+GSM3466582,Not reported,Not reported,Control,Blood; peripheral blood mononuclear cells,4
+GSM3466586,Not reported,Not reported,Control,Blood; peripheral blood mononuclear cells,4
+GSM3466589,Not reported,Not reported,Control,Blood; peripheral blood mononuclear cells,4
+GSM3466593,Not reported,Not reported,Control,Blood; peripheral blood mononuclear cells,4
+GSM3466596,Not reported,Not reported,Control,Blood; peripheral blood mononuclear cells,4
+GSM3466598,Not reported,Not reported,Control,Blood; peripheral blood mononuclear cells,4
+GSM3466599,Not reported,Not reported,Control,Blood; peripheral blood mononuclear cells,4
+GSM3466600,Not reported,Not reported,Control,Blood; peripheral blood mononuclear cells,4
+GSM3466601,Not reported,Not reported,Control,Blood; peripheral blood mononuclear cells,4
+GSM3108353,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3108354,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3108355,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3108356,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3108357,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3108358,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3108359,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3108360,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3108361,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3108362,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3108363,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3108364,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3108365,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3108366,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3108367,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3108368,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3108369,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3108370,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3108371,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3108372,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3732959,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3732960,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3732961,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3732962,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3732963,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3732964,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3732965,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3732966,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3732967,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3732968,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3732969,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3732970,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3732971,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3732972,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3732973,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3732974,Not reported,Not reported,Alzheimer's disease,Brain; olfactory bulb,5
+GSM3732975,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3732976,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM3732977,Not reported,Not reported,Control,Brain; olfactory bulb,5
+GSM4656348,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM4656349,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM4656350,Not reported,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,6
+GSM4656351,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM4656352,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM4656353,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM4656354,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM4656355,Not reported,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,6
+GSM4656356,Not reported,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,6
+GSM4656358,Not reported,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,6
+GSM4656359,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM4656360,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM4656361,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM4656362,Not reported,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,6
+GSM4656363,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM4656364,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM4656365,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM4656366,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM4656367,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM4656368,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM4656369,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM4656370,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM4656371,Not reported,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,6
+GSM4656372,Not reported,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,6
+GSM4656373,Not reported,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,6
+GSM4656374,Not reported,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,6
+GSM4656375,Not reported,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,6
+GSM4656376,Not reported,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,6
+GSM4656377,Not reported,Not reported,Control,Brain; lateral temporal lobe,6
+GSM2806214,42,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806215,60,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806216,57,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806217,42,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806218,59,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806219,55,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806220,52,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806221,46,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806222,73,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806223,63,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806224,62,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806225,68,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806226,70,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806227,77,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806228,61,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806229,68,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806230,72,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806231,68,Not reported,Control,Brain; lateral temporal lobe,7
+GSM2806232,64,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,7
+GSM2806233,63,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,7
+GSM2806234,71,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,7
+GSM2806235,74,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,7
+GSM2806236,78,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,7
+GSM2806237,61,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,7
+GSM2806238,65,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,7
+GSM2806239,70,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,7
+GSM2806240,79,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,7
+GSM2806241,64,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,7
+GSM2806242,64,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,7
+GSM2806243,67,Not reported,Alzheimer's disease,Brain; lateral temporal lobe,7
+GSM1376252,Not reported,Not reported,Alzheimer's disease,Brain; medial temporalis gyrus,8
+GSM1376253,Not reported,Not reported,Alzheimer's disease,Brain; superior temporalis gyrus,8
+GSM1376254,Not reported,Not reported,Alzheimer's disease,Brain; superior temporalis gyrus,8
+GSM1376255,Not reported,Not reported,Alzheimer's disease,Brain; superior temporalis gyrus,8
+GSM1376256,Not reported,Not reported,Alzheimer's disease,Brain; superior temporalis gyrus,8
+GSM1376257,Not reported,Not reported,Alzheimer's disease,Brain; superior temporalis gyrus,8
+GSM1376258,Not reported,Not reported,Alzheimer's disease,Brain; superior temporalis gyrus,8
+GSM1376259,Not reported,Not reported,Alzheimer's disease,Brain; superior temporalis gyrus,8
+GSM1376260,Not reported,Not reported,Control,Brain; superior temporalis gyrus,8
+GSM1376261,Not reported,Not reported,Control,Brain; superior temporalis gyrus,8
+GSM1376262,Not reported,Not reported,Control,Brain; inferior temporalis gyrus,8
+GSM1376263,Not reported,Not reported,Control,Brain; superior temporalis gyrus,8
+GSM1376264,Not reported,Not reported,Control,Brain; inferior temporalis gyrus,8
+GSM1376265,Not reported,Not reported,Control,Brain; superior temporalis gyrus,8
+GSM1376266,Not reported,Not reported,Control,Brain; superior temporalis gyrus,8
+GSM1376267,Not reported,Not reported,Control,Brain; superior temporalis gyrus,8
+GSM1376268,Not reported,Not reported,Control,Brain; superior temporalis gyrus,8
+GSM1376269,Not reported,Not reported,Control,Brain; superior temporalis gyrus,8
+GSM1376270,Not reported,Not reported,Control,Brain; superior temporalis gyrus,8
+GSM1376271,Not reported,Not reported,Control,Brain; superior temporalis gyrus,8
+GSM1376272,Not reported,Not reported,Control,Brain; superior temporalis gyrus,8
+GSM1376273,Not reported,Not reported,Control,Brain; superior temporalis gyrus,8
+GSM1376274,Not reported,Not reported,Control,Brain; superior temporalis gyrus,8
+GSM1376275,Not reported,Not reported,Control,Brain; superior temporalis gyrus,8
+GSM3984199,Not reported,Not reported,Control,Cerebrospinal fluid; immune cells,9
+GSM3984200,Not reported,Not reported,Alzheimer's disease,Cerebrospinal fluid; immune cells,9
+GSM3984201,Not reported,Not reported,Control,Cerebrospinal fluid; immune cells,9
+GSM3984202,Not reported,Not reported,Control,Cerebrospinal fluid; immune cells,9
+GSM3984204,Not reported,Not reported,Alzheimer's disease,Cerebrospinal fluid; immune cells,9
+GSM3984205,Not reported,Not reported,Control,Cerebrospinal fluid; immune cells,9
+GSM3984206,Not reported,Not reported,Alzheimer's disease,Cerebrospinal fluid; immune cells,9
+GSM3984208,Not reported,Not reported,Control,Cerebrospinal fluid; immune cells,9
+GSM3984209,Not reported,Not reported,Control,Cerebrospinal fluid; immune cells,9
+GSM3984211,Not reported,Not reported,Control,Cerebrospinal fluid; immune cells,9
+GSM3984213,Not reported,Not reported,Alzheimer's disease,Cerebrospinal fluid; immune cells,9
+GSM3984215,Not reported,Not reported,Control,Cerebrospinal fluid; immune cells,9
+GSM3984216,Not reported,Not reported,Control,Cerebrospinal fluid; immune cells,9
+GSM1885080,Not reported,Not reported,Control,Brain; dorsolateral prefrontal cortex,10
+GSM1885081,Not reported,Not reported,Control,Brain; dorsolateral prefrontal cortex,10
+GSM1885082,Not reported,Not reported,Control,Brain; dorsolateral prefrontal cortex,10
+GSM1885083,Not reported,Not reported,Control,Brain; dorsolateral prefrontal cortex,10
+GSM1885084,Not reported,Not reported,Control,Brain; dorsolateral prefrontal cortex,10
+GSM1885085,Not reported,Not reported,Control,Brain; dorsolateral prefrontal cortex,10
+GSM1885086,Not reported,Not reported,Control,Brain; dorsolateral prefrontal cortex,10
+GSM1885087,Not reported,Not reported,Control,Brain; dorsolateral prefrontal cortex,10
+GSM1885088,Not reported,Not reported,Alzheimer's disease,Brain; dorsolateral prefrontal cortex,10
+GSM1885089,Not reported,Not reported,Alzheimer's disease,Brain; dorsolateral prefrontal cortex,10
+GSM1885090,Not reported,Not reported,Alzheimer's disease,Brain; dorsolateral prefrontal cortex,10
+GSM1885091,Not reported,Not reported,Alzheimer's disease,Brain; dorsolateral prefrontal cortex,10
+GSM1885092,Not reported,Not reported,Alzheimer's disease,Brain; dorsolateral prefrontal cortex,10
+GSM1885093,Not reported,Not reported,Alzheimer's disease,Brain; dorsolateral prefrontal cortex,10
+GSM1885094,Not reported,Not reported,Alzheimer's disease,Brain; dorsolateral prefrontal cortex,10
+GSM1885095,Not reported,Not reported,Alzheimer's disease,Brain; dorsolateral prefrontal cortex,10
+GSM1885096,Not reported,Not reported,Alzheimer's disease,Brain; dorsolateral prefrontal cortex,10
+GSM1644996,82,Female,Alzheimer's disease,Brain; hippocampus,11
+GSM1644997,87,Female,Alzheimer's disease,Brain; hippocampus,11
+GSM1644998,83,Male,Alzheimer's disease,Brain; hippocampus,11
+GSM1644999,82,Female,Alzheimer's disease,Brain; hippocampus,11
+GSM1645000,77,Female,Control,Brain; hippocampus,11
+GSM1645001,83,Male,Control,Brain; hippocampus,11
+GSM1645002,>90,Male,Control,Brain; hippocampus,11
+GSM1645003,85,Female,Control,Brain; hippocampus,11
