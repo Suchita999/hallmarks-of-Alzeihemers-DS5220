@@ -2,5 +2,5 @@
 Alzheimer’s disease (AD) is an incredibly complex and presently incurable age-related brain disorder.
 
 ## Group Members
-- Suchita Sharma (sharma.such@northeastern.edu) /n
+- Suchita Sharma (sharma.such@northeastern.edu)
 - Rima Zinjuwadia (zinjuwadia.r@northeastern.edu)
