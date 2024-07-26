@@ -9,7 +9,9 @@ Alzheimer’s disease (AD) is an incredibly complex and presently incurable age-
 -> Decision Tree
 
 ## Model Comparision
+
 Mean Square Error, Mean Absolute Error and R-Sqaure
+
  -----------------------------------------------------------------------
 |          |  Linear Regression   |   Random Forest   |  Decision Tree   |
 |----------|-------------------------------------------------------------|
@@ -19,7 +21,9 @@ Mean Square Error, Mean Absolute Error and R-Sqaure
  -----------------------------------------------------------------------
 
 CLASSIFICATION REPORT
+
 For Random Forest and Decison Tree
+
  --------------------------------------------
 |          |  Random Forest |  Decision Tree |
 |--------------------------------------------|
