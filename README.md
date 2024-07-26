@@ -3,9 +3,9 @@
 
 Alzheimer’s disease (AD) is an incredibly complex and presently incurable age-related brain disorder. To better understand this debilitating disease, we collated and performed a meta-analysis on publicly available proteomics, and microRNA samples derived from AD patients and non-AD controls. From the samples originating from brain tissues and blood remained after applying quality filters. Since disease progression in AD correlates with age, we tried to stratify this large dataset into three different age groups: < 75 years, 75–84 years, and ≥ 85 years.
 
-## MODELS USED:
--> Linear Regression
--> Random Forest
+## MODELS USED:<\br>
+-> Linear Regression<\br>
+-> Random Forest</br>
 -> Decision Tree
 
 ## Model Comparision
@@ -18,6 +18,7 @@ Mean Square Error, Mean Absolute Error and R-Sqaure
 | R-Square |     -7.212           |    -0.554         |  -0.554          |
 
 CLASSIFICATION REPORT
+
 For Random Forest and Decison Tree
 
 |          |  Random Forest |  Decision Tree |
