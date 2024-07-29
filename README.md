@@ -11,11 +11,11 @@ Alzheimer’s disease (AD) is an incredibly complex and presently incurable age-
 ## Model Comparision
 Mean Square Error, Mean Absolute Error and R-Sqaure
 
-|          |  Linear Regression   |   Random Forest   |  Decision Tree   |
+|          |  Logistic Regression |   Random Forest   |  Decision Tree   |
 |----------|----------------------|-------------------|------------------|
-| MAE      |      1.802           |     0.325         |   0.341          |
-| MSE      |      1.094           |     0.325         |   0.341          |
-| R-Square |     -7.212           |    -0.554         |  -0.554          |
+| MAE      |      0.341           |     0.325         |   0.341          |
+| MSE      |      0.341           |     0.325         |   0.341          |
+| R-Square |     -0.554           |    -0.554         |  -0.554          |
 
 CLASSIFICATION REPORT
 
