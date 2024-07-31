@@ -40,7 +40,8 @@ Preprocessed data based upon the age group Young(<74 years), Middle-Aged(74 - 85
 <img width="824" alt="Screenshot 2024-07-31 at 17 05 34" src="https://github.com/user-attachments/assets/8f43d255-5151-4593-ad05-295435a85044">
 
 ## MODELS USED:
-<img width="891" alt="Screenshot 2024-07-31 at 12 44 29" src="https://github.com/user-attachments/assets/041f8df0-9bf8-4953-b2e0-708beb4a0ec4">
+<img width="766" alt="Screenshot 2024-07-31 at 17 17 31" src="https://github.com/user-attachments/assets/b8ae69f5-9a00-40cd-a563-129511200b08">
+
 
 ## MODEL COMPARISON
 |          |  Logistic Regression |   Random Forest   |  Decision Tree   | SVM   |
