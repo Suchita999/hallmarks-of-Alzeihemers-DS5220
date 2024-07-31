@@ -3,8 +3,41 @@
 
 Alzheimer’s disease (AD) is an incredibly complex and presently incurable age-related brain disorder. To better understand this debilitating disease, we collated and performed a meta-analysis on publicly available proteomics, and microRNA samples derived from AD patients and non-AD controls. From the samples originating from brain tissues and blood remained after applying quality filters. Since disease progression in AD correlates with age, we tried to stratify this large dataset into three different age groups: < 75 years, 75–84 years, and ≥ 85 years.
 
+## DATASET OVERVIEW
+combinedSTARcounts.txt. contains STAR count data from RNA seq experiments. It lists the number of unmapped reads across different samples, with each column representing a specific sample. This raw count data will require further normalization and differential expression analysis.​
+
+meta.txt provides experimental conditions, sample IDs, age, sex, diagnosis, tissue type, and batch information.​
+​
+Proteins.txt contains protein expression data across various samples. Each column represents a sample, with identifiers indicating the condition, sex, age, and disease stage. This data is important for studying the patterns of protein expression in relation to Alzheimer's disease.​
+
+New_meta.csv provides experimental conditions, sample IDs, age, sex, diagnosis, tissue type, and batch information, genes, and proteins from combinedSTARcounts.csv and meta.csv​
+
 ## PROJECT WORKFLOW
 <img width="439" alt="Screenshot 2024-07-31 at 12 43 33" src="https://github.com/user-attachments/assets/59b25472-bbd1-485e-92f2-3d6458146212">
+
+## PREPROCESSING
+Data Cleaning:
+• Created new meta file with details of samples, gene, proteins. Which are present in different file.
+• Generated three additional files for proteins with three groups: Young, Middle-age, and old age.
+• Converted txt files to csv.
+• Checked for missing values.
+• Converted categorical values to numeric values using LabelEncoder().
+• Calculated mean() for columns and replaced missing NaN values with the mean.
+• Saved preprocessed files as new csv files for future use.
+
+Normalization:
+• Column names and protein lists.
+• Checked for any mismatched column names.
+• Filtered protein data by age groups : Young, Middle-age, and old age.
+• Combined metadata with protein expression
+
+Feature Engineering:
+• Using LabelEncoder(), we changed the categorical values into numerical values such as ‘Sex’ , etc.
+• Replaced the NA values with the mean of that specific column using fillna() and mean().
+
+Preprocessed data based upon the age group Young(<74 years), Middle-Aged(74 - 85) and Old-Aged(>85)
+<img width="791" alt="Screenshot 2024-07-31 at 17 05 27" src="https://github.com/user-attachments/assets/265c3928-9786-4868-80c0-7b14c42dddda">
+<img width="824" alt="Screenshot 2024-07-31 at 17 05 34" src="https://github.com/user-attachments/assets/8f43d255-5151-4593-ad05-295435a85044">
 
 ## MODELS USED:
 <img width="891" alt="Screenshot 2024-07-31 at 12 44 29" src="https://github.com/user-attachments/assets/041f8df0-9bf8-4953-b2e0-708beb4a0ec4">
