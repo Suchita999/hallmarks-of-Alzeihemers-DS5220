@@ -79,6 +79,12 @@ Random Forest is the best model among the three, considering it has the best com
 - Metrics like accuracy, precision, recall, F1 score, and AUC-ROC curves assess model performance, guiding the selection of the best predictive model.​
 In conclusion, Supervised learning enables researchers to gain deeper insights into Alzheimer's disease mechanisms, improve diagnostics, and develop personalized treatments.​
 
+## Biological Insignt
+### Highly Expressed Proteins in Alzheimer's Disease Across Different Age Groups
+- Young Age Group: AAK1, SPGAP2, and ABR are highly expressed.
+- Middle Age Group: ACTN2 and NCAN show high expression levels.
+- Old Age Group: APP and EEF2 are prominently expressed.
+
 ## Group Members
 - Suchita Sharma (sharma.such@northeastern.edu)
 - Rima Zinjuwadia (zinjuwadia.r@northeastern.edu)
